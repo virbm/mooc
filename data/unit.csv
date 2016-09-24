@@ -1,0 +1,11 @@
+id,type,unit_id,title,release_date,now_available
+1,A,0,Test Inicial,,True
+2,U,1,Introducción,available January 4,True
+3,U,2,Elementos del lenguaje,available January 11,True
+4,U,3,Estructuras de control de flujo,available January 18,True
+5,A,Mid,Mid-course assessment,,True
+6,U,4,Funciones,available January 25,True
+7,U,5,En profundidad,available February 1,True
+10,A,Fin,Examen Final,,True
+8,U,6,Putting it all together,available July 19,True
+9,A,ReviewAssessmentExample,Sample peer review assignment,,True
